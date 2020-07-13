@@ -1,14 +1,14 @@
     
 # Super Recipe
 ## Description
-This is a recipe database powered by the [Spoonacular API](https://spoonacular.com/food-api). You are able to search their database for a recipes then the information provided is run through [Edamam] (https://www.edamam.com/) to calculate nutritional information based on the ingreadients. 
+This is a recipe database powered by the [Spoonacular API](https://spoonacular.com/food-api). You are able to search their database for a recipes then the information provided is run through [Edamam](https://www.edamam.com/) to calculate nutritional information based on the ingreadients. 
 
 ### Tools Used
 * Javascript
 * JQuery
 * [Spoonacular API](https://spoonacular.com/food-api)
-* [Edamam] (https://www.edamam.com/)
-* [Bootstrap 4] (https://getbootstrap.com/)
+* [Edamam](https://www.edamam.com/)
+* [Bootstrap 4](https://getbootstrap.com/)
 * Creator Information
 
 ## Deployed URL
