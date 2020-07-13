@@ -28,6 +28,4 @@ To clean up the dashboard you are able to push the clear history button.
   <img src="https://contributors-img.web.app/image?repo=egaska/Super-Recipe" />
 </a>
 
-Made with [contributors-img](https://contributors-img.web.app).
-
  
